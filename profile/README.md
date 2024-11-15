@@ -53,7 +53,7 @@
 |<img width="250px" alt="조희우" src="https://github.com/user-attachments/assets/99761949-d2fc-42fc-b315-5dbcb5489480">|<img width="250px" alt="손명지" src="https://github.com/user-attachments/assets/beb690aa-217b-49e3-80db-17a4893c2b3d">|<img width="250px" alt="양나영" src="https://github.com/user-attachments/assets/e14dbe48-11b5-4810-b12d-40084556c2c9">|<img width="250px" alt="이예빈" src="https://github.com/user-attachments/assets/b2827d32-086a-48a8-95d1-a9cfc9422e96">|<img width="250px" alt="조건희" src="https://github.com/user-attachments/assets/4d24dca4-8a8f-49a1-82e5-3a4d980b1c9d">|<img width="250px" alt="조아름" src="https://github.com/user-attachments/assets/7f091eed-bf18-40ef-b130-39bc208acc34">|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<a href="https://github.com/huiwoo-jo">조희우</a>|<a href="https://github.com/m6z1">손명지</a>|<a href="https://github.com/nalonghae">양나영</a>|<a href="https://github.com/leeyebeen-dev">이예빈</a>|<a href="https://github.com/dkqpeo">조건희</a>|<a href="https://github.com/areum117">조아름</a>|
-|TL; Android|Android|Design; iOS|Backend|Backend|Web; React|
+|TL; Android|Android|Backend|Design; iOS|Backend|Web; React|
 
 <br><br>
 
